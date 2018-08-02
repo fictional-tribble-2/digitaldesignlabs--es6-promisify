@@ -1,4 +1,4 @@
-[![Travis CI](https://travis-ci.org/digitaldesignlabs/es6-promisify.svg)](https://travis-ci.org/digitaldesignlabs/es6-promisify)
+[![Travis CI](https://travis-ci.org/digitaldesignlabs/es6-promisify.svg)](https://travis-ci.org/digitaldesignlabs/es6-promisify) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/digitaldesignlabs--es6-promisify.svg)](https://www.staging.guardrails.io)
 
 # es6-promisify
 Converts callback-based functions to ES6/ES2015 Promises, using a boilerplate callback function.
